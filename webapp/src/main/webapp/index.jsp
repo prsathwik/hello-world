@@ -9,7 +9,7 @@
 <food>
 <name>Strawberry Belgian Waffles</name>
 <price>$7.95</price>
-<description>Light Belgian waffles covered with strawberries and whipped cream</description>
+<description>LivzFXBzdhsgdhhvdJShdvjhsdvhgjsvdbnjbfhjvfbhjfvjhdfvdjhfvdjhfvdjhght Belgian waffles covered with strawberries and whipped cream</description>
 <calories>900</calories>
 </food>
 <food>
