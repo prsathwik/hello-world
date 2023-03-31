@@ -1,39 +1,27 @@
-<form action="action_page.php">
-  <div class="container">
-    <h1>123456789---------------------Nserv,vfgs1234567891019189487395867589658746dbjdfbbfgnhgffkjhfdshfskjfhdskjhkghkjghkjgdskjgnd Register for DevOps Learning</h1>
-    <p>Please fill in this form to create an account.</p>
-    <hr>
-<h1>---------------------Nserv,vfgs1234567891019189487395867589658746dbjdfbbfgnhgffkjhfdshfskjfhdskjhkghkjghkjgdskjgnd Register for DevOps Learning</h1>
-    <p>Please fill in this form to create an account.</p>
-    <hr>     
-    <label for="Nsfgfgsfgame"><b>Enter Name</b></label>
-    <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
-    
-    
-    <label for="mobilgsfgsfgse"><b>Enter mobile</b></label>
-    <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
-<label for="mobilgsfgsfgse"><b>Enter mobile</b></label>
-    <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>    
-    <label for="email"><b>Efsgsgsfgnter Email</b></label>
-    <input type="text" placeholder="Enter Email" name="email" id="email" required>
-    
-
-    <label for="psw"><b>Password</b></label>
-    <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
-    <br>
-
-    <label for="psw-repeat"><b>Repeat Password</b></label>
-    <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
-    <hr>
-    <br>
-    <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
-    <button type="submit" class="registerbtn">Register</button>
-  </div>
-  <div class="container signin">
-    <p>Already have an account? <a href="#">Sign in</a>.</p>
-  </div>
-
-   <h1> Thankyou, Happy Learning </h1>
-
-  
-</form>
+<breakfast_menu>
+   <food>
+       <name>Belgian Waffles</name>
+       <price>$5.95</price>
+       <description>Two of our famous Belgian Waffles with plenty of real maple syrup</description>
+       <calories>650</calories> </food>
+   <food>
+       <name>Strawberry Belgian Waffles</name>
+       <price>$7.95</price>
+       <description>Light Belgian waffles covered with strawberries and whipped cream</description>
+       <calories>900</calories> </food>
+   <food>
+       <name>Berry-Berry Belgian Waffles</name>
+       <price>$8.95</price>
+       <description>Light Belgian waffles covered with an assortment of fresh berries and whipped cream</description>
+       <calories>900</calories> </food>
+   <food>
+       <name>French Toast</name>
+       <price>$4.50</price>
+       <description>Thick slices made from our homemade sourdough bread</description>
+       <calories>600</calories> </food>
+   <food>
+       <name>Homestyle Breakfast</name>
+       <price>$6.95</price>
+       <description>Two eggs, bacon or sausage, toast, and our ever-popular hash browns</description>
+       <calories>950</calories> </food>
+</breakfast_menu>
