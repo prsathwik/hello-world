@@ -3,7 +3,7 @@
 <food>
 <name>Belgian Waffles</name>
 <price>$5.95</price>
-<description>Two three @@@@@@@@@@@@@@@@@@@@@@@@@ of our famous Belgian Waffles with plenty of real maple syrup</description>
+<description>Two three############################## @@@@@@@@@@@@@@@@@@@@@@@@@ of our famous Belgian Waffles with plenty of real maple syrup</description>
 <calories>650</calories>
 </food>
 <food>
